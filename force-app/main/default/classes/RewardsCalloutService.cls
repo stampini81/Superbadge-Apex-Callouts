@@ -1,10 +1,11 @@
-public class RewardsCalloutService{
+public with sharing class RewardsCalloutService{
 
     public static Integer submitUsersForRewardCallout(String jsonBody) {
         //Set Endpoint from Named Credential
         HttpRequest req = new HttpRequest();
         req.setEndpoint('callout:IntegrationSB__BalancedLiving/rewards');
         req.setMethod('POST');
+        req.setHeader('Content-Type', 'application/json;charset=UTF-8');
 
         req.setBody(jsonBody);
         
