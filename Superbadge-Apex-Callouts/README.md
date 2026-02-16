@@ -1,4 +1,9 @@
 
+
+<p align="center">
+	<img src="img/Superbadge-apex-callouts.png" alt="Superbadge Apex Callouts" width="400"/>
+</p>
+
 # Superbadge Apex Callouts - Projeto Completo
 
 > Projeto completo para o Superbadge Apex Callouts do Trailhead, com toda a configuração, código, testes e documentação para facilitar a validação e o reuso.
@@ -16,6 +21,10 @@
 ---
 
 ## Visão Geral
+<p align="center">
+	<img src="img/trailhead-superbadge.png" alt="Trailhead Superbadge" width="180"/>
+	<img src="img/salesforce.png" alt="Salesforce" width="120"/>
+</p>
 Este projeto implementa todas as etapas do Superbadge Apex Callouts, incluindo:
 - Integração SOAP e REST com Named Credentials
 - Testes automatizados com mocks
@@ -66,6 +75,9 @@ Este projeto implementa todas as etapas do Superbadge Apex Callouts, incluindo:
 	- Exemplo: `http://sb-integration-bs.herokuapp.com`
 
 ## Execução e Testes
+<p align="center">
+	<img src="img/superbadge-feedback.png" alt="Superbadge Feedback" width="350"/>
+</p>
 1. Execute os testes Apex pelo VS Code ou Setup da org.
 2. Rode os batchs e triggers conforme o enunciado do superbadge.
 3. Use os logs para validar as respostas dos callouts e o funcionamento dos mocks.
