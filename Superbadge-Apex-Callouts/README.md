@@ -76,7 +76,7 @@ Este projeto implementa todas as etapas do Superbadge Apex Callouts, incluindo:
 
 ## Execução e Testes
 <p align="center">
-	<img src="img/superbadge-feedback.png" alt="Superbadge Feedback" width="350"/>
+	<img src="img/superbadge.png" alt="Superbadge Feedback" width="350"/>
 </p>
 1. Execute os testes Apex pelo VS Code ou Setup da org.
 2. Rode os batchs e triggers conforme o enunciado do superbadge.
